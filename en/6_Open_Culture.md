@@ -11,6 +11,14 @@ Governments around the world have adopted open source practices, including the r
 
 An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians as well as everyone else in-between. As such, there needs to be an improved understanding for when and where the GC leverages open source tools and adopts open source practices.
 
+The following is a definition of culture defined by Dr. Robert Westrum ("A typology of Organization Culures" -https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/), a leading medical researcher, who sought to classify organizational cultures and the impact of those types of cultures on organization outcomes, “A culture is defined as the organisation’s pattern of response to the problems and opportunities it encounters.”  Although his research was directed toward medical groups, such as emergency room teams, his finding of "the flow of information" as the most important marker to both classify the culture and predict each type of culture's outcome, can be certainly applied to a more general context of open culture and its ability to improve organizational performance. Three organizational cultures emerge as one considers the flow of information throughout an organization: 
+
+1. Pathological - information is personal and hidden,
+2. Bureaucratic - information is compartimentalized with groups and not share across broader organization,
+3. Generative - information is sought and readily shared across the organization to further the global mission
+
+Generative organizations have a "striking confirmation" of superior performance to the other two types of cultures validating the sharing of information in an open and transparent manner, consistent with open culture values.  These findings were augmented by a group of researchers at MIT, Carnagie Mellon, et al (2010 - http://www.cs.cmu.edu/~ab/Salon/research/Woolley_et_al_Science_2010-2.pdf) and confirmed that the collective intelligence of groups exceeds cognitive abilities of individual group members.  One of three critical attributes of a high cognitive performing group included "equality in distribution of conversational turn-taking" within members of a group.  This was latter validated by a 2 year project at Google, called Project Aristotle (https://rework.withgoogle.com/print/guides/5721312655835136/), that examined the top 5 attributes of high performance groups and found that "psychological safety" was a key parameter in allowing every member of the team in sharing ideas and information. 
+
 The drivers that have been identified for the question of "Why Open?" include:
 
 - Build together and learn from one another
