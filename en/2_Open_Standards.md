@@ -9,6 +9,10 @@
 - [Other open standards in GC](#other-open-standards-in-GC)
 - [UK Open Standards for Government](#uk-open-standards-for-government)
 
+Open Standards versus Open Source - (Should this be called out? Sometimes there is confusion and they are used inter-changeably) 
+
+consider using www.opensource.com has a nice definition of comparing the two terms and sub-terms (open vs standard) 
+
 Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source software and closed-source software to work together.
 
 ### Benefits
